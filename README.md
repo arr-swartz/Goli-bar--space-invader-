@@ -4,5 +4,4 @@
 - It also include .wav files for sound effects while shooting. 
 
 
-https://user-images.githubusercontent.com/56621182/109474198-3fde0800-7a9a-11eb-9923-94d501f2dbdd.mp4
-
+![output](https://user-images.githubusercontent.com/56621182/109479607-8d5d7380-7aa0-11eb-868e-976d3fc380f0.gif)
